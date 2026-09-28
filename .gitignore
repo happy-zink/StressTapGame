@@ -1,0 +1,15 @@
+.venv/
+.venv-build/
+node_modules/
+.cache/
+.tmp/
+tmp/
+logs/
+build/
+dist/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.db
+launch.log
