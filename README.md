@@ -10,11 +10,13 @@
 
 ## 直接玩（推荐）
 
-1. 打开 [Releases](../../releases) 或下载本仓库 [`release/照片火柴人解压.exe`](./release/照片火柴人解压.exe)
-2. 双击运行，无需安装 Python / 无需联网
-3. 详细说明见 [`release/使用说明.txt`](./release/使用说明.txt)
+1. 打开 [**Releases → v1.0.0**](https://github.com/happy-zink/StressTapGame/releases/tag/v1.0.0)
+2. 下载 **StressTapGame.exe**（约 14 MB）
+3. 双击运行，无需安装 Python / 无需联网
+4. 分发说明见 **HOW-TO-USE.txt**（同 Release 页）
 
-> 单文件约 **14 MB**。若被 SmartScreen 拦截：更多信息 → 仍要运行。
+> 若被 SmartScreen 拦截：更多信息 → 仍要运行。  
+> 仓库内 [`release/`](./release/) 也附带了同一份 EXE 与中文说明。
 
 ---
 
